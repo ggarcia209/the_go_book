@@ -1,3 +1,4 @@
+// e4.8 records frequency (count per word) of words in text file passed as standard input
 package main
 
 import (
