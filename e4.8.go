@@ -1,3 +1,5 @@
+// e4.8 records individual counts of Unicode letters, numbers, punctuation marks, and symbols
+// from a text file passed as standard input
 package main
 
 import (
